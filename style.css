@@ -1,0 +1,250 @@
+.logo{
+    height:40%;
+    width: 120%;
+    background-size:cover;
+  }
+  
+  .services-container{
+    background-color:#ffffff;
+    height:100vh;
+    width:100vw;
+  }
+  .offers-container{
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+  }
+  
+  .offers-image{
+    height:30vh;
+  }
+  
+  
+  
+  .main-heading{
+    color:#183b56;
+    font-size: 30%;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .services-para{
+    color:#616c7c;
+    font-size: 15%;
+    font-weight: normal;
+    text-align: left;
+  }
+  .services-card-heading{
+   color:#183b56;
+    font-size: 17%; 
+  }
+  
+  .services-card-para{
+    color:#616c7c;
+    font-size: 13%;
+  }
+  
+  .services-image{
+    height:60%;
+    width:60%;
+  }
+  
+  .products-container{
+     background-color:#ffffff;
+  }
+  
+  
+  .product-image-1{
+    height:100vh;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size:cover;
+    border-radius:10%;
+  }
+  
+  .product-image-2{
+    height:100vh;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size:cover;
+    border-radius:10%;
+  }
+  
+  .p-heading{
+    font-size:27%;
+    font-weight:bold;
+    color:white;
+   }
+  
+  .p-para{
+    font-size:15%;
+    color:white;
+  }
+  
+  .p-button{
+    background-color:#ffffff;
+    color:#ff9f00;
+    font-size:15%;
+    border-radius:20%;
+    border-width:0%;
+    width:120%;
+    height:35%;
+  }
+  
+  .modal-para{
+    color:#323f4b;
+    font-size:13%;
+  }
+  
+  .p-button0{
+    background-color:#ffffff;
+    color:#ff9f00;
+    font-size:15%;
+    border-radius:20%;
+    border-width:0%;
+    width:140%;
+    height:35%;
+  }
+  .p-arrow{
+    color:#ff9f00;
+    font-size:15%;
+    padding:5%;
+  }
+  
+  .offers-image{
+    height:40vh;
+  }
+  
+  .offers-heading{
+    color:#ad2167;
+    font-size:22%;
+    font-weight:bold;
+    font-family:"bree serif";
+  }
+  
+  .offer-credit{
+    font-style:italic; 
+    color:rgb(12, 8, 8); 
+    font-weight:bold; 
+    font-size:13%;
+  }
+  
+  .offer-image{
+    height:90%;
+    width:250%;
+  }
+  
+  .offer-appliances{
+    height:300%;
+    width:300%;
+    padding-left:20%;
+  }
+  
+  .blog-type{
+    color:#959ead;
+    font-size:12%;
+  }
+  
+  .blog-heading{
+   color:#183b56;
+    font-size:21%;
+    font-weight:bold;
+    
+  }
+  
+  .blog-para{
+    color:#959ead;
+    font-size:15%;
+  }
+  
+  .blog-button{
+    color:#ff9f00;
+    font-size:14%;
+    font-weight:bold;
+  }
+  
+  .dealsoffers{
+    height:100vh;
+    width:100vw;
+  }
+  
+  .heading0{
+    color:#183b56;
+    font-size:17%;
+    font-weight:bold;
+  }
+  
+  .card0{
+  background-color:#ffffff;
+  }
+  
+  .deals-para{
+   font-size:15%; 
+   color:#183b56;
+  }
+  
+  .explore-images{
+    height:80%;
+    width:100%;
+    padding:3%;
+    border-radius:15%;
+  }
+  
+  .explore-image{
+    height:300%;
+    width:300%;
+    padding:3%;
+    border-radius:15%;
+  }
+  
+  .contact-container{
+    background-color:#f5f7fa;
+    height:100vh;
+    width:100vw;
+  }
+  
+  .contact-heading{
+    color:#183b56;
+    font-size:40%;
+    font-weight:bold;
+  }
+  
+  .button{
+    color:#ff9f00;
+    border-color:#ff9f00;
+    font-weight:bold;
+    height: 40%;
+    width: 130%;
+  }
+  
+  .footer-bg{
+   background-color:#183b56;
+  }
+  
+  .icon{
+    color:#5a7184;
+    background-color:#152c3e;
+    height:50%;
+    width:50%;
+    padding-top:15%;
+    padding-bottom:25%;
+    padding-left:18%;
+    padding-right:20%;
+    border-top-left-radius:120%;
+    border-top-right-radius:120%;
+    border-bottom-left-radius:120%;
+    border-bottom-right-radius:120%;
+    margin:5px;
+  }
+  
+  .footer-heading{
+    color:#959ead;
+    font-size:17%;
+    font-weight:bold;
+  }
+  
+  .footer-para{
+    color:#959ead;
+    font-size:13%;
+  }
+  
+  .hr-line{
+   border-color:#959ead;
+   font-weight:bold;
+  }
